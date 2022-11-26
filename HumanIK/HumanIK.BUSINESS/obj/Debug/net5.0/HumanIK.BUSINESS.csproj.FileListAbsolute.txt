@@ -1,0 +1,17 @@
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.BUSINESS.deps.json
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.BUSINESS.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\ref\HumanIK.BUSINESS.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.BUSINESS.pdb
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.ENTITIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.REPOSITORIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.ENTITIES.pdb
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\bin\Debug\net5.0\HumanIK.REPOSITORIES.pdb
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.AssemblyInfo.cs
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.csproj.CopyComplete
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\ref\HumanIK.BUSINESS.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.BUSINESS\obj\Debug\net5.0\HumanIK.BUSINESS.pdb

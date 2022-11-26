@@ -1,0 +1,12 @@
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\bin\Debug\net5.0\HumanIK.ENTITIES.deps.json
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\bin\Debug\net5.0\HumanIK.ENTITIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\bin\Debug\net5.0\ref\HumanIK.ENTITIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\bin\Debug\net5.0\HumanIK.ENTITIES.pdb
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.AssemblyInfoInputs.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.AssemblyInfo.cs
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\ref\HumanIK.ENTITIES.dll
+C:\Users\aa\Source\Workspaces\İKProje\HumanIK\HumanIK.ENTITIES\obj\Debug\net5.0\HumanIK.ENTITIES.pdb
